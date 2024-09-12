@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a university student In Korea studying/interested in algorithms, data structures, and various techniques.
 ## Please stay tuned for upcoming updates!
 <!--
 **gaebalgaebal/gaebalgaebal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
